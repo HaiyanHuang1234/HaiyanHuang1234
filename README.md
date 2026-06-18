@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haiyan Huang
+# 👋 Hi
 
 💻 HPC user | Data & Workflow Automation | Python + SLURM  
 📊 Working on large-scale data processing pipelines on HPC systems  
