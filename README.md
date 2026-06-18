@@ -1,6 +1,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:66ccff&height=200&text=Haiyan%20Huang)
-# 👋 Hi
+
 
 💻 HPC user | Data & Workflow Automation | Python + SLURM  
 📊 Working on large-scale data processing pipelines on HPC systems  
